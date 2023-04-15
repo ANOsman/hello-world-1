@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 This is a line about focus
+
+This line demonstrates how push local branch to GitHub
